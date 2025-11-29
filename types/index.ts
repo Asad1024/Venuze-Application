@@ -15,3 +15,14 @@ export interface SearchBarProps {
     isScrolled: boolean;
     onSearch?: (query: string) => void;
 }
+
+export interface Property {
+    id: number;
+    title: string;
+    price: string;
+    address: string;
+    beds: number;
+    baths: number;
+    sqft: number;
+    image: string;
+}
