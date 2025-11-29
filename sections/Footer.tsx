@@ -14,7 +14,8 @@ export default function Footer() {
                     <div>
                         {/* Logo and Tagline - Inline on same line */}
                         <div className="mb-8">
-                            <div className="flex items-start gap-3 mb-2">
+                            <div className="flex items-center gap-3 mb-2">
+
                                 <Image
                                     src="/images/venuze-logo.png"
                                     alt="Venuze Logo"

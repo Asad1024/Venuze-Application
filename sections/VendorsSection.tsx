@@ -17,8 +17,8 @@ export default function VendorsSection() {
                     <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
                         Complete Your Event with our Trusted Vendors
                     </h2>
-                    <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                        Venues are just the beginning. Discover caterers, decorators, photographers, entertainment, and more.
+                    <p className="text-lg text-gray-600 max-w-6xl mx-auto">
+                        Venues are just the beginning. Discover caterers, decorators, photographers, entertainment, and more all in one place, ready to bring your event project to life.
                     </p>
                 </div>
 
@@ -111,7 +111,7 @@ export default function VendorsSection() {
                             </div>
 
                             {/** DESKTOP WHITE BUTTON **/}
-                            <button className="hidden md:inline-block bg-white text-[#FF5037] px-8 py-3 rounded-lg font-semibold">
+                            <button className="hidden md:inline-block bg-black text-white px-8 py-3 rounded-lg font-semibold">
                                 Join as a Vendor
                             </button>
                         </div>

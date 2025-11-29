@@ -61,7 +61,7 @@ export default function TestimonialsSection() {
                     <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
                         Trusted by Event Creators Who Demand Excellence
                     </h2>
-                    <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+                    <p className="text-xl text-gray-700 max-w-5xl mx-auto leading-relaxed">
                         Join thousands of planners and hosts who love our seamless discovery and booking experience.
                     </p>
                 </div>

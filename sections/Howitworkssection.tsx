@@ -50,7 +50,7 @@ export default function HowItWorksSection() {
                     <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
                         Your Path to the Perfect Venue
                     </h2>
-                    <p className="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
+                    <p className="text-lg text-gray-600 max-w-5xl mx-auto leading-relaxed">
                         Planning an event, production, or gathering shouldn't feel complicated. Our streamlined process connects you with the
                         right venues and trusted professionals, taking the stress out of logistics so you can focus on what matters most - making
                         it a success.
@@ -84,7 +84,8 @@ export default function HowItWorksSection() {
                         {/* Right Side - Steps with Dotted Lines */}
                         <div className="relative">
                             {/* Dotted Line connecting all steps */}
-                            <div className="absolute left-6 top-6 bottom-6 w-0.5 border-l-2 border-dashed border-gray-300"></div>
+                            <div className="absolute left-6 top-6 bottom-[130px] w-0.5 border-l-2 border-dashed border-gray-300"></div>
+
 
                             <div className="space-y-12 relative">
                                 {steps.map((step) => (

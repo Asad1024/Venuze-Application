@@ -35,7 +35,7 @@ export default function CTASection() {
                             </div>
 
                             {/* DESKTOP BUTTON (WHITE) */}
-                            <button className="hidden md:inline-block bg-white text-[#FF5037] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors text-sm">
+                            <button className="hidden md:inline-block bg-black text-white px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors text-sm">
                                 List Your Venue
                             </button>
                         </div>

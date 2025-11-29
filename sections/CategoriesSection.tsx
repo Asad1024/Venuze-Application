@@ -35,7 +35,7 @@ export default function CategoriesSection() {
                     <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-3 md:mb-6">
                         Find The Best Venue For Any Occasion
                     </h2>
-                    <p className="text-sm md:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed px-4">
+                    <p className="text-sm md:text-xl text-gray-600 max-w-5xl mx-auto leading-relaxed px-4">
                         Explore venues by category, from timeless ballrooms and rooftops with a view to modern studios and outdoor gardens,
                         discover spaces designed to inspire unforgettable experiences.
                     </p>

@@ -22,7 +22,3 @@ body {
 .search-bar-transition {
   transition: all 0.3s ease-in-out;
 }
-
-.search-bar-transition {
-  transition: all 0.35s ease;
-}

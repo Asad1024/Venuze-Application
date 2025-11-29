@@ -37,7 +37,7 @@ export default function DestinationsSection() {
                     <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
                         Discover Exceptional Destinations Across the Region
                     </h2>
-                    <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+                    <p className="text-xl text-gray-600 max-w-5xl mx-auto leading-relaxed">
                         From cosmopolitan cityscapes to cultural treasures, explore where celebrations come alive with local flavor.
                     </p>
                 </div>
